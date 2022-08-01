@@ -1,4 +1,1 @@
-"# ChatReportDisabler" 
-"# ChatReportDisabler" 
-"# ChatReportDisabler" 
-"# ChatReportDisabler" 
+# ChatReportDisabler
