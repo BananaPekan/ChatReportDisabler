@@ -1,0 +1,5 @@
+name: ChatReportDisabler
+version: '${project.version}'
+author: BananaPekan
+main: banana.pekan.chatreportdisabler.Chatreportdisabler
+api-version: 1.19
